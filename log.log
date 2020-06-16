@@ -1,0 +1,96 @@
+### LGB for age ###
+================================= 5fold lightgbm =================================
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold0 RMSE score: 9.37938 
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold1 RMSE score: 9.53643 
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold2 RMSE score: 10.25990
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold3 RMSE score: 9.93053 
+len(trn_idx) : 4348
+len(val_idx) : 1086
+fold4 RMSE score: 9.83030 
+CV RMSE score: 9.79215 
+=========================================================================================
+### LGB for domain1_var1 ###
+================================= 5fold lightgbm =================================
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold0 RMSE score: 9.74200 
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold1 RMSE score: 9.57694 
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold2 RMSE score: 9.63033 
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold3 RMSE score: 9.90928 
+len(trn_idx) : 4348
+len(val_idx) : 1086
+fold4 RMSE score: 9.97283 
+CV RMSE score: 9.76745 
+=========================================================================================
+### LGB for domain1_var2 ###
+================================= 5fold lightgbm =================================
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold0 RMSE score: 11.44643
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold1 RMSE score: 11.42792
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold2 RMSE score: 11.24980
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold3 RMSE score: 11.42045
+len(trn_idx) : 4348
+len(val_idx) : 1086
+fold4 RMSE score: 11.34475
+CV RMSE score: 11.37811
+=========================================================================================
+### LGB for domain2_var1 ###
+================================= 5fold lightgbm =================================
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold0 RMSE score: 10.69713
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold1 RMSE score: 10.90684
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold2 RMSE score: 10.98398
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold3 RMSE score: 11.14880
+len(trn_idx) : 4348
+len(val_idx) : 1086
+fold4 RMSE score: 11.09093
+CV RMSE score: 10.96665
+=========================================================================================
+### LGB for domain2_var2 ###
+================================= 5fold lightgbm =================================
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold0 RMSE score: 11.84395
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold1 RMSE score: 11.53463
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold2 RMSE score: 11.80423
+len(trn_idx) : 4347
+len(val_idx) : 1087
+fold3 RMSE score: 11.80610
+len(trn_idx) : 4348
+len(val_idx) : 1086
+fold4 RMSE score: 11.62770
+CV RMSE score: 11.72396
+=========================================================================================
+Local Score: 0.16310638840093822
